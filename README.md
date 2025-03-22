@@ -30,6 +30,9 @@ Arduino_GFX
 
 2.	Install Arduino_GFX: Go to Arduino IDE > Sketch > Include Library > Manage Libraries and search for Arduino_GFX.
 3.	Configure ESP32 board in Arduino IDE.
+   
+     ![image](https://github.com/user-attachments/assets/8dced975-f7de-469e-b0df-42770de577e0)
+  
 4.	Upload the code via Arduino IDE.
 
 ### How It Works
