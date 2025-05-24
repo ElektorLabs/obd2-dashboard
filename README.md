@@ -14,7 +14,7 @@ This repository hosts the code and documentation for an advanced automotive dash
 - Derived Calculations: Displays calculated parameters like instantaneous fuel economy.
 
 ### Hardware Requirements
-- ELM327 OBD-II Module (UART compatible) - Choose the PIC Version a.k.a double board pcb.
+- ELM327 OBD-II Module (UART compatible) - Choose the PIC Version a.k.a double board pcb. [Purchase Link](https://s.click.aliexpress.com/e/_mKndvpN)
 ![IMG20250316140646](https://github.com/user-attachments/assets/8d428922-5785-47c6-8741-a1bb8fc46e09)
 
 - JC3248W535 Developement Board (ESP32S3 Based) [Purchase Link](https://s.click.aliexpress.com/e/_ol1A4SB).
