@@ -60,3 +60,34 @@ Serial.printf("Coolant Temp: %d°C\\n", temperature);
 ```
 
 
+### 🖨️ 3D Printing Instructions (OBD2 Dashboard Holder)
+
+To ensure optimal strength, heat resistance, and durability for use inside a car (especially on the dashboard), follow these recommended PETG printing settings:
+
+**General Settings:**
+
+* **Material**: PETG (Black or Dark Gray recommended for UV resistance)
+* **Nozzle Temperature**: 235–250°C (depends on filament brand)
+* **Bed Temperature**: 70–85°C
+* **Cooling**: 20–50% fan after first few layers (avoid full fan to reduce warping and layer splitting)
+* **Speed**: 60~70 mm/s (slow speed gives better layers). 
+
+**Mechanical Strength:**
+
+* **Infill Density**: 50–75% (Grid or Gyroid preferred)
+* **Perimeters/Walls**: Minimum 3
+* **Top Layers**: 5
+* **Bottom Layers**: 5
+* **Layer Height**: 0.2 mm or 0.3 mm for balanced strength and detail
+
+**Adhesion Tips:**
+
+* Use a clean PEI sheet or apply glue stick/hairspray on glass for better bed adhesion.
+* Enable a **brim** (5–8 mm) if corners lift.
+
+**Post-Processing (Optional but Recommended):**
+
+* Allow printed part to **cool fully** on the bed to avoid warping.
+* For enhanced UV and heat resistance, consider applying a **matte clear coat** rated for automotive use.
+
+
